@@ -2,8 +2,8 @@
 <p align="center">
 Turning messy data into intelligent insights and doing it so efficiently even my coffee gets a break. 😉☕</p>
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# 🙎‍♂️ About Me
+------------------------------------------------------------------------------------------------------------------------------------------------------
+🙎‍♂️ About Me
 
 📊 **Data Meets Intelligence**: My journey blends AI, Machine Learning, and Data Science to craft solutions that are as scalable as they are smart. From LLM-powered chatbots to privacy-preserving health analytics, I thrive on turning complex problems into elegant, data-driven answers.
 
@@ -15,9 +15,9 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network. ☕🤖
 
-- 💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps**
+💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps**
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 🧑‍💻 Tech Stack
 
@@ -48,7 +48,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 **Version Control**  
 `GIT`
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Featured Projects
 
