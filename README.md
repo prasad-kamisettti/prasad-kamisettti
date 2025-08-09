@@ -42,7 +42,13 @@ Turning messy data into intelligent insights — and doing it so efficiently eve
 **Web Development**  
 `HTML5` `CSS3` `JavaScript` `React` `Node.js` `Express.js`
 
----
+**Cloud**  
+`AWS` 
+
+**Version Control**  
+`GIT`
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📌 Featured Projects
 
@@ -55,7 +61,7 @@ Turning messy data into intelligent insights — and doing it so efficiently eve
 - **📈 Personalized AI Financial Advisor**  
   GenAI + Alpha Vantage API for real-time investment strategies with continuous feedback learning. [Repo Link](#)
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Connect with Me
 📧 vara2000prasad@gmail.com
