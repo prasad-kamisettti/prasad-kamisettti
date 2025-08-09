@@ -52,7 +52,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 ## 📌 Featured Projects
 
-- **[🔐 Privacy-Preserving Disease Risk Predictor](https://github.com/prasad-kamisettti/FHE-on-disease-prediction-)**  
+- **🔐[Privacy-Preserving Disease Risk Predictor](https://github.com/prasad-kamisettti/FHE-on-disease-prediction-)**  
   Fully Homomorphic Encryption with CKKS to predict disease risk while keeping patient data private. 
 
 - **🛡️ LLM-based Network Security Chatbot**  
