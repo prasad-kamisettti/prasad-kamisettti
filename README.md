@@ -53,14 +53,14 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 ## 📌 Featured Projects
 
 - **🔐 Privacy-Preserving Disease Risk Predictor**  
-  Fully Homomorphic Encryption with CKKS to predict disease risk while keeping patient data private. [Repo Link](#)
+  Fully Homomorphic Encryption with CKKS to predict disease risk while keeping patient data private. [check repo](https://github.com/prasad-kamisettti/FHE-on-disease-prediction-)
 
 - **🛡️ LLM-based Network Security Chatbot**  
-  RAG-powered chatbot answering 200+ network security queries with semantic search & hybrid retrieval. [Repo Link](https://github.com/prasad-kamisettti/Network-Security---Q-A-Chatbot-Project)
+  RAG-powered chatbot answering 200+ network security queries with semantic search & hybrid retrieval. [check repo](https://github.com/prasad-kamisettti/Network-Security---Q-A-Chatbot-Project)
 
 
-- **📈 Personalized AI Financial Advisor**  
-  GenAI + Alpha Vantage API for real-time investment strategies with continuous feedback learning. [Repo Link](#)
+- **📈 Resume Parser**  
+Parses resumes, matches them against job descriptions, and returns a match score.[check repo](https://github.com/prasad-kamisettti/resume-scanner-project-)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
