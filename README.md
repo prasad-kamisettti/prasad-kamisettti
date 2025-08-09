@@ -3,7 +3,7 @@
 Turning messy data into intelligent insights and doing it so efficiently even my coffee gets a break. 😉☕</p>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
-##🙎‍♂️ About Me
+## 🙎‍♂️ About Me
 
 📊 **Data Meets Intelligence**: My journey blends AI, Machine Learning, and Data Science to craft solutions that are as scalable as they are smart. From LLM-powered chatbots to privacy-preserving health analytics, I thrive on turning complex problems into elegant, data-driven answers.
 
