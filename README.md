@@ -52,8 +52,8 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 ## 📌 Featured Projects
 
-- **🔐 Privacy-Preserving Disease Risk Predictor**  
-  Fully Homomorphic Encryption with CKKS to predict disease risk while keeping patient data private. [check repo](https://github.com/prasad-kamisettti/FHE-on-disease-prediction-)
+- **[🔐 Privacy-Preserving Disease Risk Predictor](https://github.com/prasad-kamisettti/FHE-on-disease-prediction-)**  
+  Fully Homomorphic Encryption with CKKS to predict disease risk while keeping patient data private. 
 
 - **🛡️ LLM-based Network Security Chatbot**  
   RAG-powered chatbot answering 200+ network security queries with semantic search & hybrid retrieval. [check repo](https://github.com/prasad-kamisettti/Network-Security---Q-A-Chatbot-Project)
