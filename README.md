@@ -56,7 +56,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
   Fully Homomorphic Encryption with CKKS to predict disease risk while keeping patient data private. [Repo Link](#)
 
 - **🛡️ LLM-based Network Security Chatbot**  
-  RAG-powered chatbot answering 200+ network security queries with semantic search & hybrid retrieval. [Repo Link](git@github.com:prasad-kamisettti/Network-Security---Q-A-Chatbot-Project.git)
+  RAG-powered chatbot answering 200+ network security queries with semantic search & hybrid retrieval. [Repo Link](https://github.com/prasad-kamisettti/Network-Security---Q-A-Chatbot-Project)
 
 
 - **📈 Personalized AI Financial Advisor**  
