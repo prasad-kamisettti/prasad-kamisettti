@@ -1,21 +1,25 @@
-<h1 align="center">Hi there 👋, I'm Vara Prasad</h1>
+<h1 align="center">Hi there 👋, I'm Prasad Kamisetti</h1>
 <p align="center">
-Passionate about building intelligent, privacy-preserving, and scalable AI systems 🚀
-</p>
+Turning messy data into intelligent insights — and doing it so efficiently even my coffee gets a break. ☕💡</p>
 
----
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 🙎‍♂️ About Me
 
-## 🌟 About Me
-- 🎓 Master's in Computer Science @ Texas Tech University (CGPA 3.55)
-- 🔭 Currently: Graduate Assistant — architecting scalable ETL pipelines, optimizing ML infrastructure, and ensuring 99% uptime for critical research systems
-- 🤖 Skilled in LLMs, RAG architectures, Neural Networks, and AI-powered chatbots
-- ☁️ Cloud Experience: AWS, BigQuery, Docker, Kubernetes, Jenkins
-- 📊 Data Tools: Pandas, PySpark, TensorFlow, Keras, OpenCV, Tableau
-- 💬 Ask me about **AI, Data Engineering, Privacy-Preserving ML, and MLOps**
+📊 **Data Meets Intelligence**: My journey blends AI, Machine Learning, and Data Science to craft solutions that are as scalable as they are smart. From LLM-powered chatbots to privacy-preserving health analytics, I thrive on turning complex problems into elegant, data-driven answers.
 
----
+🤝 **Collaboration is My Superpower**: Whether it’s fine-tuning models, designing ETL pipelines, or orchestrating cloud infrastructure, I love working with teams to transform ideas into production-ready systems — and making the process fun.
 
-## 🛠 Tech Stack
+🛠 **Problem-Solving in Action**: I’ve built streaming architectures, optimized ML pipelines, and engineered systems that tackle complex challenges. If it involves wrangling messy data or teaching machines new tricks, I’m in.
+
+🎯 **On the Hunt**: Actively seeking AI/ML/Data Science opportunities where I can create models that not only perform well — but make recruiters wonder if I’m secretly training myself. 😉
+
+🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network. ☕🤖
+
+- 💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps**
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## 🧑‍💻 Tech Stack
 
 **Generative AI**  
 `LLM` `LLM Fine Tuning` `HuggingFace` `Embeddings` `RAG` `Prompt Engineering` `OpenAI API`
