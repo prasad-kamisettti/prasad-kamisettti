@@ -64,4 +64,4 @@ Parses resumes, matches them against job descriptions, and returns a match score
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## 📫 Wanted to Connect with Me?
-📧 devivprasad19@gmail.com
+You can drop an email at devivprasad19@gmail.com
