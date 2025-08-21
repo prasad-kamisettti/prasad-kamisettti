@@ -11,7 +11,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 🛠 **Problem-Solving in Action**: I’ve built streaming architectures, optimized ML pipelines, and engineered systems that tackle complex challenges. If it involves wrangling messy data or teaching machines new tricks, I’m in. 
 
-🎯 **On the Hunt**: Actively seeking AI/ML/Data Science opportunities where I can create models that not only perform well - but make recruiters wonder if I’m secretly training myself. 😉
+🎯 **On the Hunt**: Actively seeking AI/ML/Data Science opportunities where I can create models that not only perform well - but make recruiters wonder if I’m secretly training myself :) 
 
 🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network. ☕🤖
 
