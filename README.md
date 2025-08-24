@@ -15,7 +15,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network. ☕🤖
 
-💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps**
+💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps.**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
