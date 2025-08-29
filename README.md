@@ -13,7 +13,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 🎯 **On the Hunt**: Actively seeking AI/ML/Data Science opportunities where I can create models that not only perform well - but make recruiters wonder if I’m secretly training myself :) 
 
-🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network. 😉☕🤖
+🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network.☕🤖
 
 💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps**
 
