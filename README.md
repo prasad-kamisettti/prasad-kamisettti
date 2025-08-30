@@ -65,7 +65,7 @@ Parses resumes, matches them against job descriptions, and returns a match score
 
 ## ✍️ Blogs & Articles
 - **[How I Built a Network Security Chatbot with LangChain, FAISS, and OpenAI](https://medium.com/@vara2000prasad/building-a-network-security-chatbot-with-langchain-faiss-and-open-ai-7b96bb919db2)**
-- **[Mastering SQL Joins: A Beginner-Friendly Guide]([https://medium.com/@vara2000prasad/building-a-network-security-chatbot-with-langchain-faiss-and-open-ai-7b96bb919db2](https://medium.com/@vara2000prasad/mastering-sql-joins-a-beginner-friendly-guide-b534ea5b9c89))**
+- **[Mastering SQL Joins: A Beginner-Friendly Guide](https://medium.com/@vara2000prasad/mastering-sql-joins-a-beginner-friendly-guide-b534ea5b9c89)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
