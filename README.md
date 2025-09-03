@@ -71,4 +71,4 @@ Parses resumes, matches them against job descriptions, and returns a match score
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
-if you want to connect You can drop an email at devivprasad19@gmail.com
+If you want to connect or want to know more about me, You can drop an email at devivprasad19@gmail.com
