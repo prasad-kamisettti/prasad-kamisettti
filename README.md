@@ -69,7 +69,6 @@ Parses resumes, matches them against job descriptions, and returns a match score
 - **[Understanding Database Normalization: A Beginner’s Guide](https://medium.com/@vara2000prasad/understanding-database-normalization-a-beginners-guide-bf96e2490905)**
 - **[Essential Python Libraries for Data Science: Why We Use Them](https://medium.com/@vara2000prasad/essential-python-libraries-for-data-science-why-we-use-them-761af79793b0)**
 
-
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
 If you want to connect or want to know more about me, You can drop an email at devivprasad19@gmail.com
