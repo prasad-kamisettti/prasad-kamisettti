@@ -5,9 +5,9 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🙎‍♂️ About Me
 
-📊 **Data Meets Intelligence**: My journey blends AI, Machine Learning, and Data Science to craft solutions that are as scalable as they are smart. From LLM-powered chatbots to privacy-preserving health analytics, I thrive on turning complex problems into elegant, data-driven answers
+📊 **Data Meets Intelligence**: My journey blends AI, Machine Learning, and Data Science to craft solutions that are as scalable as they are smart. From LLM-powered chatbots to privacy-preserving health analytics, I thrive on turning complex problems into elegant, data-driven answers.
 
-🤝 **Collaboration is My Superpower**: Whether it’s fine-tuning models, designing ETL pipelines, or orchestrating cloud infrastructure, I love working with teams to transform ideas into production-ready systems and making the process fun
+🤝 **Collaboration is My Superpower**: Whether it’s fine-tuning models, designing ETL pipelines, or orchestrating cloud infrastructure, I love working with teams to transform ideas into production-ready systems and making the process fun.
 
 🛠 **Problem-Solving in Action**: I’ve built streaming architectures, optimized ML pipelines, and engineered systems that tackle complex challenges. If it involves wrangling messy data or teaching machines new tricks, I’m in. 
 
