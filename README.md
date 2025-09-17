@@ -69,6 +69,7 @@ Parses resumes, matches them against job descriptions, and returns a match score
 - **[Understanding Database Normalization: A Beginner’s Guide](https://medium.com/@vara2000prasad/understanding-database-normalization-a-beginners-guide-bf96e2490905)**
 - **[Essential Python Libraries for Data Science: Why We Use Them](https://medium.com/@vara2000prasad/essential-python-libraries-for-data-science-why-we-use-them-761af79793b0)**
 - **[NumPy in Python: The Foundation of Data Science](https://medium.com/@vara2000prasad/numpy-in-python-the-foundation-of-data-science-9b75acca5e6c)**
+- **[AI Agents, RAG, and How They Work Together](https://medium.com/@vara2000prasad/ai-agents-rag-and-how-they-work-together-a50fd38c24d9)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
