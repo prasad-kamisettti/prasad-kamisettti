@@ -59,7 +59,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
   RAG-powered chatbot answering 200+ network security queries with semantic search & hybrid retrieval. 
 
 - **🔍 [Resume Parser](https://github.com/prasad-kamisettti/resume-scanner-project-)**  
-Parses resumes, matches them against job descriptions, and returns a match score.
+Parses resumes, matches them against job descriptions, and returns a match score
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
