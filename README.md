@@ -70,6 +70,7 @@ Parses resumes, matches them against job descriptions, and returns a match score
 - **[Essential Python Libraries for Data Science: Why We Use Them](https://medium.com/@vara2000prasad/essential-python-libraries-for-data-science-why-we-use-them-761af79793b0)**
 - **[NumPy in Python: The Foundation of Data Science](https://medium.com/@vara2000prasad/numpy-in-python-the-foundation-of-data-science-9b75acca5e6c)**
 - **[AI Agents, RAG, and How They Work Together](https://medium.com/@vara2000prasad/ai-agents-rag-and-how-they-work-together-a50fd38c24d9)**
+- **[Getting Started with Apache Kafka: Real-Time Data in Motion](https://medium.com/@vara2000prasad/getting-started-with-apache-kafka-real-time-data-in-motion-99c7573a168c)**
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
