@@ -72,6 +72,8 @@ Parses resumes, matches them against job descriptions, and returns a match score
 - **[NumPy in Python: The Foundation of Data Science](https://medium.com/@vara2000prasad/numpy-in-python-the-foundation-of-data-science-9b75acca5e6c)**
 - **[AI Agents, RAG, and How They Work Together](https://medium.com/@vara2000prasad/ai-agents-rag-and-how-they-work-together-a50fd38c24d9)**
 - **[Getting Started with Apache Kafka: Real-Time Data in Motion](https://medium.com/@vara2000prasad/getting-started-with-apache-kafka-real-time-data-in-motion-99c7573a168c)**
+- **[Power BI for Beginners: Turning Data into Insights](https://medium.com/@vara2000prasad/power-bi-for-beginners-turning-data-into-insights-aa488becbddd)**
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
