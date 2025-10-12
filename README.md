@@ -8,6 +8,7 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 📊 **Data Meets Insight**: My journey revolves around transforming raw data into clear, actionable intelligence. With hands-on experience in Power BI, SQL, and Python, I specialize in building interactive dashboards, automating reports, and designing data models that drive smarter business decisions.
 
 
+
 🤝 **Collaboration is My Core Strength:** I enjoy working with cross-functional teams — from analysts to engineers — to design and optimize ETL pipelines, create meaningful visual stories, and ensure that every metric connects back to real business outcomes.
 
 
