@@ -7,13 +7,18 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 📊 **Data Meets Insight**: My journey revolves around transforming raw data into clear, actionable intelligence. With hands-on experience in Power BI, SQL, and Python, I specialize in building interactive dashboards, automating reports, and designing data models that drive smarter business decisions.
 
+
 🤝 **Collaboration is My Core Strength:** I enjoy working with cross-functional teams — from analysts to engineers — to design and optimize ETL pipelines, create meaningful visual stories, and ensure that every metric connects back to real business outcomes.
+
 
 🧠 **Blending BI with Data Science:** Beyond dashboards, I’ve explored the analytical side of data — leveraging Python for data cleaning, exploratory data analysis, and predictive modeling to uncover patterns that help stakeholders make informed choices.
 
+
 🎯 **Currently Exploring:** Seeking Business Intelligence or Data Analyst opportunities where I can apply my technical and analytical skills to deliver scalable insights and continue bridging the gap between data engineering and data science.
 
+
 🌟 **Beyond the Dashboard:** When I’m not crafting visuals or optimizing queries, you’ll find me catching up on analytics trends, experimenting with Python scripts, or brewing coffee strong enough to rival a production server. ☕
+
 
 💬 Let’s talk about: **Power BI, SQL, Python, Data Visualization, and how data can tell better business stories**.
 
