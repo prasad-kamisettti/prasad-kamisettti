@@ -5,17 +5,17 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🙎‍♂️ About Me
 
-📊 **Data Meets Intelligence**: My journey blends AI, Machine Learning, and Data Science to craft solutions that are as scalable as they are smart. From LLM-powered chatbots to privacy-preserving health analytics, I thrive on turning complex problems into elegant, data-driven answers.
+📊 **Data Meets Insight**: My journey revolves around transforming raw data into clear, actionable intelligence. With hands-on experience in Power BI, SQL, and Python, I specialize in building interactive dashboards, automating reports, and designing data models that drive smarter business decisions.
 
-🤝 **Collaboration is My Superpower**: Whether it’s fine-tuning models, designing ETL pipelines, or orchestrating cloud infrastructure, I love working with teams to transform ideas into production-ready systems and making the process fun.
+🤝 **Collaboration is My Core Strength:** I enjoy working with cross-functional teams — from analysts to engineers — to design and optimize ETL pipelines, create meaningful visual stories, and ensure that every metric connects back to real business outcomes.
 
-🛠 **Problem-Solving in Action**: I’ve built streaming architectures, optimized ML pipelines, and engineered systems that tackle complex challenges. If it involves wrangling messy data or teaching machines new tricks, I’m in. 
+🧠 **Blending BI with Data Science:** Beyond dashboards, I’ve explored the analytical side of data — leveraging Python for data cleaning, exploratory data analysis, and predictive modeling to uncover patterns that help stakeholders make informed choices.
 
-🎯 **On the Hunt**: Actively seeking AI/ML/Data Science opportunities where I can create models that not only perform well - but make recruiters wonder if I’m secretly training myself :) 
+🎯 **Currently Exploring:** Seeking Business Intelligence or Data Analyst opportunities where I can apply my technical and analytical skills to deliver scalable insights and continue bridging the gap between data engineering and data science.
 
-🌟 **Beyond the Terminal**: When I’m not in front of a screen, you’ll probably find me watching a movie, exploring tech trends, or perfecting the art of brewing coffee strong enough to power a neural network.☕
+🌟 **Beyond the Dashboard:** When I’m not crafting visuals or optimizing queries, you’ll find me catching up on analytics trends, experimenting with Python scripts, or brewing coffee strong enough to rival a production server. ☕
 
-💬 Ask me about **AI, Data Science, Privacy-Preserving ML, and MLOps**
+💬 Let’s talk about: **Power BI, SQL, Python, Data Visualization, and how data can tell better business stories**.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
