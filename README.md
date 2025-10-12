@@ -27,12 +27,11 @@ Turning messy data into intelligent insights and doing it so efficiently even my
 
 ## 🧑‍💻 Tech Stack
 
-**Business Intelligence & Data Visualization**
-
-`Power BI` `Tableau` `Excel (Power Query, Pivot, DAX)` `Matplotlib` `Seaborn`
-
 **Generative AI**
 `LLM` `LLM Fine Tuning` `HuggingFace` `Embeddings` `RAG` `Prompt Engineering` `OpenAI API`
+
+**Business Intelligence & Data Visualization**
+`Power BI` `Tableau` `Excel (Power Query, Pivot, DAX)` `Matplotlib` `Seaborn`
 
 **Vector Database**  
 `MongoDB` `FAISS` `Vertex AI`
