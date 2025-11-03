@@ -89,4 +89,4 @@ Parses resumes, matches them against job descriptions, and returns a match score
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📫 Want to Connect with Me?
-If you want to connect or want to know more about me, You can drop an email at vara2000prasad@gmail.com
+If you want to connect or want to know more about me, You can drop an email at devivprasad19@gmail.com
