@@ -83,6 +83,7 @@ Parses resumes, matches them against job descriptions, and returns a match score
 - **[AI Agents, RAG, and How They Work Together](https://medium.com/@vara2000prasad/ai-agents-rag-and-how-they-work-together-a50fd38c24d9)**
 - **[Getting Started with Apache Kafka: Real-Time Data in Motion](https://medium.com/@vara2000prasad/getting-started-with-apache-kafka-real-time-data-in-motion-99c7573a168c)**
 - **[Power BI for Beginners: Turning Data into Insights](https://medium.com/@vara2000prasad/power-bi-for-beginners-turning-data-into-insights-aa488becbddd).**
+- **[A Beginner’s Guide to AWS S3: The Foundation of Cloud Storage](https://medium.com/@vara2000prasad/a-beginners-guide-to-aws-s3-the-foundation-of-cloud-storage-ce6c13101f3e).**
 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
